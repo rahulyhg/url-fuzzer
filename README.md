@@ -12,4 +12,4 @@ Parameters:
   hide (Optional)   HTTP codes to hide in results, default is 404
 ~~~
 
-List.txt ripped from [here](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files)
+list.txt ripped from [here](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files)
