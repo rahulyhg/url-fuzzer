@@ -47,7 +47,7 @@
 	else{
 		switch($error){
 			case 1:
-				echo "\nUsage: php fuzzer.php <url> <list> [hide]...\n\nParameters:\n  url\t\t\tUrl to fuzz\n  list\t\t\tFile containing the list of directories to search\n  hide (Optional)\tHTTP codes to hide in results, default is 404";
+				echo "Usage: php fuzzer.php <url> <list> [hide]...\n\nParameters:\n  url\t\t\tUrl to fuzz\n  list\t\t\tFile containing the list of directories to search\n  hide (Optional)\tHTTP codes to hide in results, default is 404";
 				break;
 			case 2:
 				echo "Error: Unable to open list file";
